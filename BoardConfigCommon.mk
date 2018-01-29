@@ -16,7 +16,7 @@
 #
 
 VENDOR_PATH := device/xiaomi/msm8956-common
-
+WITH_DEXPREOPT := true
 TARGET_SPECIFIC_HEADER_PATH := $(VENDOR_PATH)/include
 
 # Architecture
